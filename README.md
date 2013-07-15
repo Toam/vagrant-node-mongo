@@ -3,6 +3,9 @@ vagrant-node-mongo
 
 
 ## Setup
+
+Install [Vagrant](http://downloads.vagrantup.com/) and [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+
 ```
 $ vagrant up
 ```
